@@ -1,0 +1,18 @@
+{
+  "name": "docsify-github-codeblock",
+  "version": "0.1.0",
+  "description": "docsify plugin: a collapsible code block for every GitHub permalink in the page",
+  "main": "src/docsify-github-codeblock.js",
+  "files": ["src", "README.md", "LICENSE"],
+  "keywords": ["docsify", "docsify-plugin", "github", "code", "permalink"],
+  "author": "junxnone",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junxnone/docsify-github-codeblock.git"
+  },
+  "homepage": "https://github.com/junxnone/docsify-github-codeblock#readme",
+  "bugs": {
+    "url": "https://github.com/junxnone/docsify-github-codeblock/issues"
+  },
+  "license": "MIT"
+}
